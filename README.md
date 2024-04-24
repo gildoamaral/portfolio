@@ -2,7 +2,7 @@
 Este foi um projeto feito seguindos os princípios e fundamentos ensinados pelo curso **FRONT END DEVELOPER**, através da instituição **META**.
 
 ### Objetivo
-Criar um _Portifólio_ que funcionasse através de uma Landing Page, utilizando o framework `React`, bem como algumas de suas bibliotecas 
+Criar um _Portfólio_ que funcionasse através de uma Landing Page, utilizando o framework `React`, bem como algumas de suas bibliotecas 
 
 ## Conhecimentos Utilizados
 Neste projeto, foram utilizados os seguintes conhecimentos:
